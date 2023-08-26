@@ -7,21 +7,16 @@ Nice to meet you. I'm currently studying Systems Analysis and Development at uni
 
 ### Contact:
 #
-[![LinkedIn](https://img.icons8.com/?size=50&id=13930&format=png)](https://www.linkedin.com/in/mateus-felipe-ara%C3%BAjo-ba2b18191/) 
-
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mateus-felipe-ara%C3%BAjo-ba2b18191/) 
+[![gmail](https://img.icons8.com/?size=50&id=qyRpAggnV0zH&format=png)](mailto:brasil.mateus748@gmail.com)
 
 ### Hard Skills: 
 #
-![HTML5](https://img.icons8.com/?size=50&id=20909&format=png) 
-![CSS3](https://img.icons8.com/?size=50&id=21278&format=png)
-![JavaScript](https://img.icons8.com/?size=50&id=PXTY4q2Sq2lG&format=png)
-![Node](https://img.icons8.com/?size=50&id=54087&format=png) 
-![GIT](https://img.icons8.com/?size=50&id=20906&format=png) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,git,linux)](https://skillicons.dev)
 
 ### Learning:
 #
-![Java](https://img.icons8.com/?size=50&id=13679&format=png)
-![PostgreSQL](https://img.icons8.com/?size=50&id=38561&format=png)
+[![My Skills](https://skillicons.dev/icons?i=java,postgres)](https://skillicons.dev)
 
 ### Github stats:
 #
