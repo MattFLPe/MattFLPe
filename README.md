@@ -1,7 +1,7 @@
 # Olá, meu nome é Mateus Felipe!
 ## Hello, my name is Mateus Felipe!
 
-Prazer em conhecê-lo. No momento, estou cursando Análise e Desenvolvimento de Sistemas e tenho o objetivo principal de me tornar um desenvolvedor back-end.
+Prazer em conhecê-lo(a). No momento, estou cursando Análise e Desenvolvimento de Sistemas e tenho o objetivo principal de me tornar um desenvolvedor back-end.
 
 Nice to meet you. I'm currently studying Systems Analysis and Development at university, and my main goal is to become a back-end developer in the future.
 
