@@ -12,11 +12,11 @@ Nice to meet you. I'm currently studying Systems Analysis and Development at uni
 
 ## Hard Skills: 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,git,linux)](https://skillicons.dev)
 
 ## Learning:
 
-[![My Skills](https://skillicons.dev/icons?i=java,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,angular)](https://skillicons.dev)
 
 ## Github stats:
 
