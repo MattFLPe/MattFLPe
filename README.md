@@ -2,6 +2,7 @@
 ## Hello, my name is Mateus Felipe!
 
 Prazer em conhecê-lo(a)!
+<br>
 Nice to meet you!
 
 No momento, estou cursando Análise e Desenvolvimento de Sistemas e tenho o objetivo principal de me tornar um desenvolvedor fullstack. Gosto de ler sobre assuntos técnicos relacionados à minha área de atuação e de praticar novos conceitos.
