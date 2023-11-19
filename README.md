@@ -16,11 +16,9 @@ I'm currently studying Systems Analysis and Development at university, and my ma
 
 ## Hard Skills: 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,git)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=java,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,angular,java,git)](https://skillicons.dev)
 
 ## Github stats:
 
