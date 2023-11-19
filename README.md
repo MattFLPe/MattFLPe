@@ -19,9 +19,7 @@ I'm currently studying Systems Analysis and Development at university, and my ma
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,git)](https://skillicons.dev)
-
-## Learning:
-
+<br>
 [![My Skills](https://skillicons.dev/icons?i=java,angular)](https://skillicons.dev)
 
 ## Github stats:
