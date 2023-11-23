@@ -1,11 +1,7 @@
-# Olá, meu nome é Mateus Felipe!
-## Hello, my name is Mateus Felipe!
+# Hello, my name is Mateus Felipe!
 
-Prazer em conhecê-lo(a)!
-<br>
 Nice to meet you!
-
-No momento, estou cursando Análise e Desenvolvimento de Sistemas e tenho o objetivo principal de me tornar um desenvolvedor fullstack. Gosto de ler sobre assuntos técnicos relacionados à minha área de atuação e de praticar novos conceitos.
+<br>
 
 I'm currently studying Systems Analysis and Development at university, and my main goal is to become a fullstack developer in the future. I like to read about technical subjects regarding my area of expertise, and to practice new concepts.
 
@@ -14,7 +10,7 @@ I'm currently studying Systems Analysis and Development at university, and my ma
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mateus-felipe-ara%C3%BAjo-ba2b18191/) 
 [![gmail](https://img.icons8.com/?size=50&id=qyRpAggnV0zH&format=png)](mailto:brasil.mateus748@gmail.com)
 
-## Hard Skills: 
+## Technologies: 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 <br>
