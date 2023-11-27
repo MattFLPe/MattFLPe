@@ -1,24 +1,41 @@
-# Hello, my name is Mateus Felipe!
+# 👋 Hello, my name is Mateus!
 
 Nice to meet you!
 <br>
 
-I'm currently studying Systems Analysis and Development at university, and my main goal is to become a fullstack developer in the future. I like to read about technical subjects regarding my area of expertise, and to practice new concepts.
-
-## Contact:
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mateus-felipe-ara%C3%BAjo-ba2b18191/) 
-[![gmail](https://img.icons8.com/?size=50&id=qyRpAggnV0zH&format=png)](mailto:brasil.mateus748@gmail.com)
-
-## Technologies: 
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
+I'm a brazilian developer currently studying Systems Analysis and Development at university, and my main goal is to become a fullstack developer in the future. 
 <br>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,angular,java,git)](https://skillicons.dev)
 
-## Github stats:
+I like reading, programming, watching movies, learning about new subjects and sometimes playing RPG.
+<br>
 
+You can contact me anytime: 
+<br>
+- <a href="mailto:brasil.mateus748@gmail.com">Gmail</a>
+- <a href="https://www.linkedin.com/in/mateus-felipe-ara%c3%bajo-ba2b18191/">LinkedIn</a>
+
+## ⚡ Technologies: 
+
+<div>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
+</div>
+<br>
+<br>
+<br>
+<div align="center">
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MattFLPe&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MattFLPe&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+</div>
+
 
 
