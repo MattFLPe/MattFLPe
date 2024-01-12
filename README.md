@@ -6,7 +6,7 @@ Nice to meet you!
 I'm a brazilian developer currently studying Systems Analysis and Development at university, and my main goal is to become a fullstack developer in the future. 
 <br>
 
-I like reading, programming, watching movies, exercising, learning about new subjects and sometimes playing RPG and stuff.
+I like reading, programming, watching movies, exercising and learning about new subjects.
 <br>
 
 You can contact me anytime: 
