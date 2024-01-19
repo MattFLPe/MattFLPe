@@ -3,7 +3,7 @@
 Nice to meet you!
 <br>
 
-I'm a brazilian developer currently studying Systems Analysis and Development at university, and my main goal is to become a fullstack developer in the future. 
+I'm a brazilian developer currently studying Systems Analysis and Development at university, and my main goal is to become an experienced fullstack developer. 
 <br>
 
 I like reading, programming, watching movies, exercising and learning about new subjects.
