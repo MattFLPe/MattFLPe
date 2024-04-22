@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hello, my name is Mateus!
 
 Nice to meet you!
@@ -11,8 +13,8 @@ I like reading, programming, watching movies, exercising and learning about new 
 
 You can contact me anytime: 
 <br>
-- <a href="mailto:brasil.mateus748@gmail.com">Gmail</a>
-- <a href="https://www.linkedin.com/in/mateus-felipe-ara%c3%bajo-ba2b18191/">LinkedIn</a>
+<a href="mailto:brasil.mateus748@gmail.com">Gmail</a>
+<a href="https://www.linkedin.com/in/mateus-felipe-ara%c3%bajo-ba2b18191/">LinkedIn</a>
 
 ## ⚡ Technologies: 
 
@@ -27,7 +29,7 @@ You can contact me anytime:
 <br>
 <br>
 <br>
-<div align="center">
+
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MattFLPe&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
