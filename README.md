@@ -1,22 +1,21 @@
-<div align="center">
-
 # 👋 Hello, my name is Mateus!
 
-Nice to meet you!
+_Nice to meet you!_
+<br>
+### 🔍 About me:
+➥ I'm currently studying Systems Analysis and Development.
+<br>
+➥ I like reading, programming, watching movies, exercising and learning about new subjects.
+<br>
+➥ My main goals are to become a resourceful developer, and to show my craftmanship to the world. I want to improve everyday, each day, while contributing positively.
 <br>
 
-I'm currently studying Systems Analysis and Development at university, and my main goal is to become a backend developer. 
-<br>
+## 📫 Contact me:
+<a href="mailto:brasil.mateus748@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/mateus-felipe-ara%c3%bajo-ba2b18191/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<br>		
 
-I like reading, programming, watching movies, exercising and learning about new subjects.
-<br>
-
-You can contact me anytime: 
-<br>
-<a href="mailto:brasil.mateus748@gmail.com">Gmail</a>
-<a href="https://www.linkedin.com/in/mateus-felipe-ara%c3%bajo-ba2b18191/">LinkedIn</a>
-
-## ⚡ Technologies: 
+## 🖥️ Technologies: 
 
 <div>
   <img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
@@ -28,14 +27,9 @@ You can contact me anytime:
 </div>
 <br>
 <br>
-<br>
 
-  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MattFLPe&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MattFLPe&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-</div>
 
 
 
