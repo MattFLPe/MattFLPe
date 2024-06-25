@@ -7,7 +7,7 @@ _Nice to meet you!_
 <br>
 ➥ I like reading, programming, watching movies, exercising and learning about new subjects.
 <br>
-➥ My main goals are to become a resourceful developer, and to show my craftmanship to the world. I want to improve everyday, each day, while contributing positively.
+➥ My main goals are to become a resourceful developer, and to show my craftmanship to the world. I want to improve everyday, each day contributing positively.
 <br>
 
 ## 📫 Contact me:
