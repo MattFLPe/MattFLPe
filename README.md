@@ -1,6 +1,6 @@
 # 👋 Hello, my name is Mateus!
 ### 🔍 About me:
-➥ I'm a twenty-four-year-old Brazilian student who likes technology and programming.
+➥ I'm a Brazilian student who likes technology and programming.
 <br>
 ➥ I like reading in general, studying STEM topics, exercising and discovering new things.
 <br>
