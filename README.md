@@ -1,9 +1,6 @@
 # 👋 Hello, my name is Mateus!
-
-_Nice to meet you!_
-<br>
 ### 🔍 About me:
-➥ I'm currently studying Systems Analysis and Development and working as a NOC operator.
+➥ I'm a twenty-four-year-old Brazilian student who likes technology and programming.
 <br>
 ➥ I like reading in general, studying STEM topics, exercising and discovering new things.
 <br>
