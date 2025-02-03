@@ -3,11 +3,11 @@
 _Nice to meet you!_
 <br>
 ### 🔍 About me:
-➥ I'm currently studying Systems Analysis and Development.
+➥ I'm currently studying Systems Analysis and Development and working as a NOC operator.
 <br>
-➥ I like reading, programming, watching movies, exercising and learning about new subjects.
+➥ I like reading in general, studying STEM topics, exercising and discovering new things.
 <br>
-➥ My main goals are to become a resourceful developer, and to show my craftmanship to the world. I want to improve everyday, each day contributing positively.
+➥ I don't have many goals, I just want to improve everyday and also contribute positively to the world.
 <br>
 
 ## 📫 Contact me:
@@ -24,6 +24,7 @@ _Nice to meet you!_
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
