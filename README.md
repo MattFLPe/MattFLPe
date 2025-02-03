@@ -7,7 +7,7 @@ _Nice to meet you!_
 <br>
 ➥ I like reading in general, studying STEM topics, exercising and discovering new things.
 <br>
-➥ I don't have many goals, I just want to improve everyday and also contribute positively to the world.
+➥ I just want to improve everyday and also contribute positively to the world.
 <br>
 
 ## 📫 Contact me:
